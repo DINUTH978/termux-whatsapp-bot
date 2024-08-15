@@ -1,10 +1,10 @@
 {
-    "botName": "BOT_NAME",
-    "ownerName": "OWNER_NAME",
-    "BarBarKey": "YOUR_APIKEY",
-    "ownerNumbers": "628885xxxxxx@s.whatsapp.net",
-    "languages": "ind",
+    "botName": "GHOST-MD",
+    "ownerName": "DINU_BOY",
+    "BarBarKey": "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",
+    "ownerNumbers": "94781306128@s.whatsapp.net",
+    "languages": "Eng",
     "botPrefix": ".",
-    "memberLimitss": "25",
-    "userDefaultLimit": "30"
+    "memberLimitss": "250",
+    "userDefaultLimit": "300"
 }
